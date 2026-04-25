@@ -66,10 +66,10 @@ streamlit run main.py
 6. Start asking questions about your document!
 
 ## 📦 Dependencies
--Python 3.10+
--Ollama
--Streamlit >= 1.0
--LangChain Ecosystem
--FAISS (faiss-cpu)
--Unstructured / PyPDF
--Sentence Transformers
+* Python 3.10+
+* Ollama
+* Streamlit >= 1.0
+* LangChain Ecosystem
+* FAISS (faiss* cpu)
+* Unstructured / PyPDF
+* Sentence Transformers
