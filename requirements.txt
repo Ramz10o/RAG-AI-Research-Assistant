@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-classic
+langchain-community
+langchain-huggingface
+langchain-core
+langchain-ollama
+faiss-cpu
+pypdf
+python-dotenv
+unstructured[pdf]
+unstructured-inference
+sentence-transformers
+numpy<2.0.0
+scikit-learn<1.5.0
