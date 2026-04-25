@@ -3,6 +3,19 @@
 
 A fully local, privacy-preserving Retrieval-Augmented Generation (RAG) application. This tool allows you to upload complex academic PDFs (such as two-column IEEE papers), semantically parse their layout, and query their contents using an open-source Large Language Model—all running entirely on your local hardware without relying on cloud APIs.
 
+---
+
+## 📝 Table of Contents
+
+- [Features](#✨-features)
+- [Project Structure](#📂-project-structure)
+- [Prerequisites](#🛠️-prerequisites)
+- [Installation & Setup](#📥-installation--setup)
+- [Running the Application](#🚀-running-the-application)
+- [Dependencies](#📦-dependencies)
+- [License](#⚖️-license)
+
+---
 ## ✨ Features
 
 * **100% Local & Private:** No data is sent to OpenAI, Google, or any external API. Your documents stay on your machine.
