@@ -64,3 +64,12 @@ streamlit run main.py
 4. Open the provided Local URL in your browser (usually http://localhost:8501).
 5. Upload your PDF via the sidebar, click Process Document, and wait for the success message.
 6. Start asking questions about your document!
+
+## 📦 Dependencies
+-Python 3.10+
+-Ollama
+-Streamlit >= 1.0
+-LangChain Ecosystem
+-FAISS (faiss-cpu)
+-Unstructured / PyPDF
+-Sentence Transformers
