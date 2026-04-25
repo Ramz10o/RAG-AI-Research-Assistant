@@ -73,3 +73,11 @@ streamlit run main.py
 * FAISS (faiss* cpu)
 * Unstructured / PyPDF
 * Sentence Transformers
+
+## ⚖️ License
+
+MIT License
+
+Author: Ramz P
+
+Year: 2026
