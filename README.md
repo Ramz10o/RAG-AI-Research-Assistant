@@ -51,6 +51,8 @@ ollama pull llama3.1:8b
 
 4. Note: The download is approximately 4.7GB. Once it finishes, Ollama runs automatically in the background as a local host service (defaulting to http://localhost:11434).
 
+---
+
 ## 🚀 Running the Application
 
 1. Ensure the Ollama application is running in the background.
@@ -64,6 +66,8 @@ streamlit run main.py
 4. Open the provided Local URL in your browser (usually http://localhost:8501).
 5. Upload your PDF via the sidebar, click Process Document, and wait for the success message.
 6. Start asking questions about your document!
+
+---
 
 ## 📦 Dependencies
 * Python 3.10+
