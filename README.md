@@ -78,6 +78,8 @@ streamlit run main.py
 * Unstructured / PyPDF
 * Sentence Transformers
 
+---
+
 ## ⚖️ License
 
 MIT License
