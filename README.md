@@ -32,7 +32,11 @@ A fully local, privacy-preserving Retrieval-Augmented Generation (RAG) applicati
 ## 📥 Installation & Setup
 
 ### 1. Install Dependencies
-Ensure you have created a virtual environment, then install the required packages. Note: We use specific versions for `numpy` and `scikit-learn` to prevent C-compiler binary mismatches with the unstructured parsers on Windows.
+Ensure you have created a virtual environment, then install the required packages using pip by running the following command:
+
+```bash
+pip install -r "requirements.txt"
+```
 
 ### 2. Install and Configure Ollama
 This project specifically uses Llama 3.1 (8 Billion parameters) for its excellent reasoning and concise question-answering capabilities.
