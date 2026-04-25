@@ -7,13 +7,13 @@ A fully local, privacy-preserving Retrieval-Augmented Generation (RAG) applicati
 
 ## 📝 Table of Contents
 
-- [Features](#✨-features)
-- [Project Structure](#📂-project-structure)
-- [Prerequisites](#🛠️-prerequisites)
-- [Installation & Setup](#📥-installation--setup)
-- [Running the Application](#🚀-running-the-application)
-- [Dependencies](#📦-dependencies)
-- [License](#⚖️-license)
+- [Features](##✨-features)
+- [Project Structure](##📂-project-structure)
+- [Prerequisites](##🛠️-prerequisites)
+- [Installation & Setup](##📥-installation--setup)
+- [Running the Application](##🚀-running-the-application)
+- [Dependencies](##📦-dependencies)
+- [License](##⚖️-license)
 
 ---
 ## ✨ Features
